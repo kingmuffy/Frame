@@ -1,0 +1,52 @@
+[
+  {
+    "number": 1,
+    "question": "What amenities are available at the cottage retreat?",
+    "answer": "The cottage offers a variety of amenities including free Wi-Fi, a fully equipped kitchen, a cozy fireplace, and an outdoor seating area."
+  },
+  {
+    "number": 2,
+    "question": "Is the cottage pet-friendly?",
+    "answer": "Yes, our cottage is pet-friendly. We welcome guests to bring their furry friends along for their stay."
+  },
+  {
+    "number": 3,
+    "question": "Are there any hiking trails nearby?",
+    "answer": "Yes, the cottage is located near several scenic hiking trails that offer breathtaking views of the surrounding nature."
+  },
+  {
+    "number": 4,
+    "question": "Can I book the cottage for a special event?",
+    "answer": "Absolutely! The cottage can be booked for special events like family reunions, weddings, and retreats. Please contact us for more details."
+  },
+  {
+    "number": 5,
+    "question": "Is there a parking space available?",
+    "answer": "Yes, there is ample parking space available for guests at the cottage."
+  },
+  {
+    "number": 6,
+    "question": "How far is the nearest town?",
+    "answer": "The nearest town is about a 20-minute drive from the cottage, where you can find various shops, restaurants, and entertainment options."
+  },
+  {
+    "number": 7,
+    "question": "Is there a swimming pool at the cottage?",
+    "answer": "No, currently we do not have a swimming pool, but there are beautiful lakes nearby for swimming and water activities."
+  },
+  {
+    "number": 8,
+    "question": "Are there any restrictions on the number of guests?",
+    "answer": "The cottage comfortably accommodates up to 6 guests. For larger groups, please contact us to discuss options."
+  },
+  {
+    "number": 9,
+    "question": "Do you provide any meals or food service?",
+    "answer": "We do not provide meals. However, the cottage has a fully equipped kitchen for guests to prepare their own meals."
+  },
+  {
+    "number": 10,
+    "question": "What is the cancellation policy?",
+    "answer": "Cancellations made more than 30 days before the check-in date will receive a full refund. For more information, please review our cancellation policy on the website."
+  }
+]

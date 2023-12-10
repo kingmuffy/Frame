@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Basic Plan",
+    "price": "£99 per month",
+    "features": [
+      "Access to basic amenities",
+      "Free Wi-Fi",
+      "Complimentary breakfast"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Premium Plan",
+    "price": "£199 per month",
+    "features": [
+      "All Basic Plan features",
+      "Access to the swimming pool",
+      "Room service",
+      "Gym access"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Deluxe Plan",
+    "price": "£299 per month",
+    "features": [
+      "All Premium Plan features",
+      "Private balcony",
+      "Exclusive dining options",
+      "Spa services"
+    ]
+  }
+]
