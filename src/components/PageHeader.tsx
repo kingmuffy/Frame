@@ -93,15 +93,7 @@ export const PageHeader: React.FC = () => {
     },
   };
   return (
-    <motion.nav
-      variants={{
-        visible: { y: 0 },
-        hidden: { y: "-100%" },
-      }}
-      animate="hidden"
-      transition={{ duration: 0.35, ease: "easeInOut" }}
-      className="backdrop-blur-[2px] sticky top-0  bg-stone-50 lg:gap-custom  flex w-full flex-col justify-center items-center  py-6 max-md:max-w-full "
-    >
+    <motion.nav className="backdrop-blur-[2px]  bg-stone-50 lg:gap-custom  flex w-full flex-col justify-center items-center  py-6 max-md:max-w-full ">
       <nav className="flex w-full px-0 max-w-[1440px]  justify-between  items-start max-md:max-w-full max-md:flex-wrap">
         <a href="/">
           <h1 className="pl-5 pt-4 lg:pt-6 lg:pl-[100px] md:pl-[100px] text-gray-700 text-sm font-bold w-44 leading-7 tracking-[3px] grow whitespace-nowrap">
