@@ -34,7 +34,7 @@ const MobileNavLink: React.FC<{ title: string; href: string }> = ({
   return (
     <motion.div
       variants={mobileLinkVars}
-      className="text-5xl uppercase text-white"
+      className="text-3xl uppercase text-white"
     >
       <a href={href}>{title}</a>
     </motion.div>
