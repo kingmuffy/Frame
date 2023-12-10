@@ -1,3 +1,6 @@
+import React, {useState, useEffect} from "react";
+import {motion, useScroll, useMotionValueEvent} from "framer-motion";
+
 import Footer from "./components/Footer";
 import Photos from "./components/Photos";
 import Faq from "./components/Faq";
@@ -9,7 +12,7 @@ function App() {
   return (
     <div className="max-w-[1440px]">
       <PageHeader />
-      <Banner classname="sticky top-0" />
+      <Banner />
       <Photos />
       <Faq />
       <Footer />
